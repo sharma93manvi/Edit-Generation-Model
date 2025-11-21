@@ -1,4 +1,4 @@
-# EditGenerationModel (EGM)
+# Edit Generation Model (EGM)
 
 A deep learning-based image editing tool that learns user editing preferences from raw/edited image pairs and automatically applies those preferences to new images.
 
